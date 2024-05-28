@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Najam Riaz
-- 👀 I’m interested in Music
-- 🌱 I’m currently learning React JS
-- 📫 How to reach me "najamriaz.pk@gmail.com"
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently a full stack developer
+- 📫 How to reach me "nj.najamriaz@gmail.com"
 
